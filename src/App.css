@@ -1,0 +1,21 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.Navbar {
+  height: 60px;
+  width: 100%;
+  background-color: black;
+}
+.Navbar ul {
+  padding: 15px 0;
+  column-gap: 30px;
+  list-style: none;
+  display: flex;
+  float: right;
+  margin-right: 50px;
+}
+.Navbar ul li {
+  color: white;
+}
